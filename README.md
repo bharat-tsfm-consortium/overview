@@ -21,6 +21,6 @@ We proudly collaborate with researchers and labs from:
 
 Interested in collaborating? We’re open to partnerships with academic groups, industry researchers. Reach out via:
 
-- Email: [saurabhd@alumni.iitm.ac.in](mailto:saurabhd@alumni.ac.in)
+- Email: Coming soon
 - LinkedIn: Coming Soon
-- Websire: Coming Soon
+- Website: Coming Soon (this repository will be replaced with the official website repository)
